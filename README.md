@@ -1,3 +1,12 @@
+**Project infos**
+
+[![Github All Releases](https://img.shields.io/github/downloads/FancyVoxel/VoxelBrowser/total.svg)]()
+[![GitHub release](https://img.shields.io/github/release/FancyVoxel/VoxelBrowser.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/FancyVoxel/VoxelBrowser.svg)](https://github.com/FancyVoxel/VoxelBrowser/issues)
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-EEAD4B.svg)](https://raw.githubusercontent.com/FancyVoxel/VoxelBrowser/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/Summ0n3r)
+
+
 ### Made with the mission to prioritize you
 From the beginning, we created the Voxel Browser to protect and respect your private information.
 
